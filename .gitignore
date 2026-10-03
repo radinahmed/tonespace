@@ -13,3 +13,9 @@ src/router.ts
 src/modals.tsx
 .claude/launch.json
 .claude/worktrees
+.DS_Store
+node_modules/
+.env
+.env.*
+.wrangler/
+dist/
